@@ -13,6 +13,8 @@
   Etika normatif tidak hanya mengemukakan fakta/deskripsi, namun juga sudah melakukan penilaian apakah ia menerima atau menolak suatu nilai atas dasar pertimbangan moral dan prinsip-prinsip etis.
 * Metaetika | 
   Pendekatan lain mempraktekkan etika sebagai ilmu adalah metaetika yang bergerak pada level yang lebih tinggi dari sekedar perilaku etis, yaitu pada taraf "bahasa etis" atau bahasa yang digunakan di bidang moral.
+  
+-------------------------------------------------------
 
 ## Tindakan tidak etis
 Nilai-nilai yang menjadi pegangan dalam bertingkah laku menyebabkan timbulnya tindakan-tindakan yang bertentangan dengan nilai-nilai tersebut. Inilah yang dimaksud dengan tindakan yang tidak etis. Jan Hoesada menyebutkan ada beberapa faktor yang menjadi penyebabnya :
@@ -22,6 +24,8 @@ Nilai-nilai yang menjadi pegangan dalam bertingkah laku menyebabkan timbulnya ti
 * Lingkungan yang tidak etis | Tindakan seorang individu menjadi tidak etis juga bisa disebabkan oleh pengaruh lingkungan tempat dia berada, atau dalam artian kebiasaan tidak etis di suatu lingkungan mempengaruhi individu untuk mengikuti kebiasaan tidak etis tersebut.
 * Perilaku atasan | Karena rasa tidak enak terhadap atasan, dapat menyebabkan individu menuruti atau mengikuti perilaku atasan walaupun perilaku tersebut sebenarnya tidak etis untuk diikuti dan dipatuhi.
 
+-------------------------------------------------------
+
 ## Profesi
 Profesi sendiri adalah suatu bentuk pekerjaan yang mengharuskan pelakunya memiliki pengetahuan tertentu yang diperoleh melalui pendidikan formal dan keterampilan tertentu. Keterampilan tersebut didapat melalui pendidikannya atau pengalaman kerja bersama orang yang sudah lebih dahulu menguasai keterampilan tersebut. Profesi merupakan bagian dari pekerjaan, tetapi tidak semua pekerjaan adalah profesi. Untuk menjadi seorang profesional, seseorang yang melakukan pekerjaan dituntut untuk memiliki beberapa sikap yaitu :
 * Komitmen tinggi
@@ -30,3 +34,14 @@ Profesi sendiri adalah suatu bentuk pekerjaan yang mengharuskan pelakunya memili
 * Penguasaan materi
 * Menjadi bagian masyarakat profesional
 
+Setiap bentuk kerja memiliki empat macam tujuan, yaitu :
+* Memenuhi kebutuhan hidup
+* Mengurangi tingkat pengangguran dan kriminalitas
+* Melayani sesama
+* Mengontrol gaya hidup
+
+Kebutuhan manusia sendiri menurut Abdulkadir Muhammad (2001) dalam buku Teguh Wahyono, mencakup :
+* Kebutuhan ekonomi
+* Kebutuhan psikis
+* Kebutuhan biologi
+* Kebutuhan pekerjaan
