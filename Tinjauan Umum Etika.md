@@ -9,3 +9,4 @@
   Etika normatif tidak hanya mengemukakan fakta/deskripsi, namun juga sudah melakukan penilaian apakah ia menerima atau menolak suatu nilai atas dasar pertimbangan moral dan prinsip-prinsip etis.
 * Metaetika | 
   Pendekatan lain mempraktekkan etika sebagai ilmu adalah metaetika yang bergerak pada level yang lebih tinggi dari sekedar perilaku etis, yaitu pada taraf "bahasa etis" atau bahasa yang digunakan di bidang moral.
+
