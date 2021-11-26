@@ -10,3 +10,11 @@
 * Metaetika | 
   Pendekatan lain mempraktekkan etika sebagai ilmu adalah metaetika yang bergerak pada level yang lebih tinggi dari sekedar perilaku etis, yaitu pada taraf "bahasa etis" atau bahasa yang digunakan di bidang moral.
 
+## Tindakan tidak etis
+Nilai-nilai yang menjadi pegangan dalam bertingkah laku menyebabkan timbulnya tindakan-tindakan yang bertentangan dengan nilai-nilai tersebut. Inilah yang dimaksud dengan tindakan yang tidak etis. Jan Hoesada menyebutkan ada beberapa faktor yang menjadi penyebabnya :
+* Kebutuhan individu | Kebutuhan yang tidak terpenuhi dapat memancing individu untuk melakukan tindakan yang tidak etis demi memenuhi kebutuhannya. Terutama didasari rasa malu atau besarnya keinginan untuk memenuhi kebutuhan tersebut.
+* Tidak ada pedoman | Karena tidak adanya pedoman atau prosedur baku untuk melakukan sesuatu, menyebabkan munculnya tindakan yang tidak etis. Hal ini membuka peluang bagi orang-orang untuk melakukan tindakan yang melanggar etika dalam lingkungan ataupun komunitasnya.
+* Perilaku dan kebiasaan individu | 
+* Lingkungan yang tidak etis | 
+* Perilaku atasan | 
+
