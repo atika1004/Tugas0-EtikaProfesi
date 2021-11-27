@@ -6,5 +6,4 @@
 * Belajar keterampilan baru
 * Bekerja dengan robot
 
-
-  Perkembangan teknologi yang terjadi dalam kehidupan manusia, seperti revolusi yang memberikan banyak perubahan pada cara berpikir manusia baik dalam usaha pemecahan masalah, perencanaan, maupun dalam pengambilan keputusan. Para pakar ilmu kognitif telah menemukan bahwa, ketika teknologi mengambil alih fungsi-fungsi mental manusia. Pada saat yang sama, terjadi kerugian yang diakibatkan oleh hilangnya fungsi-fungsi tersebut dari mental manusia. Beberapa pendapat mengemukakan bahwa kemudahan yang ditawarkan oleh komputer, ternyata menimbulkan ketergantungan manusia terhadap teknologi.
+Perkembangan teknologi yang terjadi dalam kehidupan manusia, seperti revolusi yang memberikan banyak perubahan pada cara berpikir manusia baik dalam usaha pemecahan masalah, perencanaan, maupun dalam pengambilan keputusan. Para pakar ilmu kognitif telah menemukan bahwa, ketika teknologi mengambil alih fungsi-fungsi mental manusia. Pada saat yang sama, terjadi kerugian yang diakibatkan oleh hilangnya fungsi-fungsi tersebut dari mental manusia. Beberapa pendapat mengemukakan bahwa kemudahan yang ditawarkan oleh komputer, ternyata menimbulkan ketergantungan manusia terhadap teknologi.
