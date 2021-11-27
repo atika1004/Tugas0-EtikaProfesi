@@ -3,6 +3,8 @@ Etika sebagai sebuah nilai yang menjadi pegangan seseorang atau suatu kelompok d
 
 Interaksi hubungan dalam kehidupan masyarakat senantiasa diwarnai dengan penyalahgunaan, pelanggaran, ataupun penyimpangan. Walaupun telah ada etika sebagai pedoman dalam mengatur kehidupan masyarakat, namun tetap ada sebagian diantaranya yang tidak taat, atau menentang dan bahkan membuat pelanggaran terhadap pedoman yang telah ada. Kondisi semikian akan menimbulkan ketidakseimbangan dalam masyarakat. Pola interaksi masyarakat tidak lagi berjalan lancar, karena munculnya konflik dan saling tidak percaya antar masyarakat. Dalam kondisi ini, jika etika ataupun aturan yang berlaku tidak memiliki kemampuan untuk memecahkan permasalahan, maka masyarakat dalam kondisi krisis dan kekacauan pasti akan muncul.
 
+----------------------------------------------
+
 ## Faktor Pelanggaran Etika
 Adapun beberapa hal yang membuat seseorang melanggar etika, diantaranya :
 * Kebutuhan hidup
@@ -10,6 +12,8 @@ Adapun beberapa hal yang membuat seseorang melanggar etika, diantaranya :
 * Perilaku dan kebiasaan individu
 * Lingkungan tidak etis
 * Perilaku orang yang ditiru
+
+----------------------------------------------
 
 ## Sanksi Pelanggaran Etika
 Sanksi bagi seseorang yang melakukan pelanggaran etika terbagi menjadi dua jenis, yaitu sanksi hukum dan sanksi sosial.
