@@ -7,4 +7,16 @@
 * Belajar keterampilan baru
 * Bekerja dengan robot
 
-Perkembangan teknologi yang terjadi dalam kehidupan manusia, seperti revolusi yang memberikan banyak perubahan pada cara berpikir manusia baik dalam usaha pemecahan masalah, perencanaan, maupun dalam pengambilan keputusan. Para pakar ilmu kognitif telah menemukan bahwa, ketika teknologi mengambil alih fungsi-fungsi mental manusia. Pada saat yang sama, terjadi kerugian yang diakibatkan oleh hilangnya fungsi-fungsi tersebut dari mental manusia. Beberapa pendapat mengemukakan bahwa kemudahan yang ditawarkan oleh komputer, ternyata menimbulkan ketergantungan manusia terhadap teknologi.
+## Etika Berteknologi
+  Perubahan yang terjadi pada cara berpikir manusia sebagai salah satu akibat perkembangan teknologi tersebut, sedikit banyak akan berpengaruh terhadap pelaksanaan dan cara pandang manusia terhadap etika dan norma-norma dalam kehidupannya. Orang yang biasanya saling berinteraksi secara fisik melakukan komunikasi secara langsung dengan orang lain, dikarenakan perkembangan teknologi untuk berkomunikasi secara online, maka interaksi secara langsung pun semakin berkurang. Kecenderungan-kecenderungan semacam itulah yang pada akhirnya membawa perubahan di dalam pelaksanaan etika yang sebelumnya telah disepakati pada sebuah komunitas.
+  
+  Faktor manusia dalam teknologi sangat penting. Ketika manusia membiarkan dirinya dikuasai teknologi, maka manusia yang lain akan mengalahkannya. Sebenarnya teknologi dikembangkan untuk membantu manusia dalam melaksanakan aktifitasnya. Hal itu karena manusia memiliki keterbatasan, keterbatasan inilah yang harus ditutupi oleh teknologi yang ada. Kendali penggunaan teknologi tetap sepenuhnya ada di tangan manusia. Oleh sebab itu, pendidikan manusiawi termasuk pelaksanaan norma dan etika kemanusiaannya tetap harus berada pada peringkat teratas serta tidak hanya melakukan pemujaan terhadap teknologi tinggi belaka. Manusia tetap faktor yang penting, dan teknologi hanya untuk mengatasi keterbatasan yang ada, bukan untuk menguasai diri manusia.
+  
+## Permasalahan dan Pembahasan Etika Teknologi
+  Permasalahan yang ada pada perkembangan teknologi yang menyangkut etika masyarakat, yaitu :
+* Melihat pada perkembangan internet yang begitu pesat, maka perlu dibuat aturan-aturan atau etika beraktifitas dalam dunia maya.
+* Etika merupakan ilmu pengetahuan yang berhubungan dengan upaya menentukan perbuatan yang dilakukan manusia untuk dikatakan baik atau buruk, dengan kata lain aturan atau pola tingkah laku yang dihasilkan oleh akal manusia.
+
+  Pembahasan dari permasalahan yang ada, yaitu :
+* Untuk menghindari penggunaan internet yang tidak baik, dapat dilakukan dengan cara melarang anak di bawah umur dengan bebas bermain internet. Kecuali untuk kepentingan pendidikan dan diharapkan kepada setiap orang yang membuka usaha warnet untuk tidak membuat situs yang tidak layak dilihat dan membatasi anak di bawah umur dalam menggunakan internet.
+* Untuk menghadapi tantangan teknologi, diharuskan membatasi hal-hal dalam teknologi yang berdampak buruk bagi kehidupan, supaya teknologi dapat dikendalikan.
